@@ -1,0 +1,16 @@
+{
+  "name": "tp2",
+  "version": "1.0.0",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.6.7",
+    "grpc": "^1.24.11"
+  },
+  "description": ""
+}
